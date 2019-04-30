@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.Networking.Transport", "Unity.Networking.Transport.csproj", "{4791EA45-D7F1-C0D3-497D-C1B318BB894F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{00165838-202C-33A2-AA65-1CD4478CA75C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.Networking.Transport.Editor", "Unity.Networking.Transport.Editor.csproj", "{6B0D91B2-9AAA-2FB0-3C7C-2F90D1992CB6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4791EA45-D7F1-C0D3-497D-C1B318BB894F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4791EA45-D7F1-C0D3-497D-C1B318BB894F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4791EA45-D7F1-C0D3-497D-C1B318BB894F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4791EA45-D7F1-C0D3-497D-C1B318BB894F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00165838-202C-33A2-AA65-1CD4478CA75C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00165838-202C-33A2-AA65-1CD4478CA75C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00165838-202C-33A2-AA65-1CD4478CA75C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00165838-202C-33A2-AA65-1CD4478CA75C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B0D91B2-9AAA-2FB0-3C7C-2F90D1992CB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B0D91B2-9AAA-2FB0-3C7C-2F90D1992CB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B0D91B2-9AAA-2FB0-3C7C-2F90D1992CB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B0D91B2-9AAA-2FB0-3C7C-2F90D1992CB6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
