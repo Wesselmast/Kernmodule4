@@ -49,6 +49,8 @@
   <PropertyGroup>
     <ProjectTypeGuids>{E097FAD1-6243-4DAD-9C02-E9B9EFC3FFC1};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
     <UnityProjectGenerator>Unity/VSTU</UnityProjectGenerator>
+    <UnityProjectType>Game:1</UnityProjectType>
+    <UnityBuildTarget>StandaloneWindows64:19</UnityBuildTarget>
     <UnityVersion>2019.1.0f2</UnityVersion>
   </PropertyGroup>
   <ItemGroup>
@@ -60,35 +62,35 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="C:\Users\Wessel\Desktop\GithubSchool\UnityMultiplayer\multiplayer\com.unity.transport\Runtime\Bindings\network.bindings.cs" />
-    <Compile Include="C:\Users\Wessel\Desktop\GithubSchool\UnityMultiplayer\multiplayer\com.unity.transport\Runtime\DataStream.cs" />
-    <Compile Include="C:\Users\Wessel\Desktop\GithubSchool\UnityMultiplayer\multiplayer\com.unity.transport\Runtime\INetworkDriver.cs" />
-    <Compile Include="C:\Users\Wessel\Desktop\GithubSchool\UnityMultiplayer\multiplayer\com.unity.transport\Runtime\IPCManager.cs" />
-    <Compile Include="C:\Users\Wessel\Desktop\GithubSchool\UnityMultiplayer\multiplayer\com.unity.transport\Runtime\NetworkCompressionModel.cs" />
-    <Compile Include="C:\Users\Wessel\Desktop\GithubSchool\UnityMultiplayer\multiplayer\com.unity.transport\Runtime\NetworkConnection.cs" />
-    <Compile Include="C:\Users\Wessel\Desktop\GithubSchool\UnityMultiplayer\multiplayer\com.unity.transport\Runtime\NetworkDriver.cs" />
-    <Compile Include="C:\Users\Wessel\Desktop\GithubSchool\UnityMultiplayer\multiplayer\com.unity.transport\Runtime\NetworkEndPoint.cs" />
-    <Compile Include="C:\Users\Wessel\Desktop\GithubSchool\UnityMultiplayer\multiplayer\com.unity.transport\Runtime\NetworkEventQueue.cs" />
-    <Compile Include="C:\Users\Wessel\Desktop\GithubSchool\UnityMultiplayer\multiplayer\com.unity.transport\Runtime\NetworkInterface.cs" />
-    <Compile Include="C:\Users\Wessel\Desktop\GithubSchool\UnityMultiplayer\multiplayer\com.unity.transport\Runtime\NetworkLogger.cs" />
-    <Compile Include="C:\Users\Wessel\Desktop\GithubSchool\UnityMultiplayer\multiplayer\com.unity.transport\Runtime\NetworkParams.cs" />
-    <Compile Include="C:\Users\Wessel\Desktop\GithubSchool\UnityMultiplayer\multiplayer\com.unity.transport\Runtime\NetworkPipeline.cs" />
-    <Compile Include="C:\Users\Wessel\Desktop\GithubSchool\UnityMultiplayer\multiplayer\com.unity.transport\Runtime\NetworkProtocols.cs" />
-    <Compile Include="C:\Users\Wessel\Desktop\GithubSchool\UnityMultiplayer\multiplayer\com.unity.transport\Runtime\Pipelines\DefaultPipelineStageCollection.cs" />
-    <Compile Include="C:\Users\Wessel\Desktop\GithubSchool\UnityMultiplayer\multiplayer\com.unity.transport\Runtime\Pipelines\ReliableSequencedPipelineStage.cs" />
-    <Compile Include="C:\Users\Wessel\Desktop\GithubSchool\UnityMultiplayer\multiplayer\com.unity.transport\Runtime\Pipelines\ReliableUtility.cs" />
-    <Compile Include="C:\Users\Wessel\Desktop\GithubSchool\UnityMultiplayer\multiplayer\com.unity.transport\Runtime\Pipelines\SimulatorPipelineStage.cs" />
-    <Compile Include="C:\Users\Wessel\Desktop\GithubSchool\UnityMultiplayer\multiplayer\com.unity.transport\Runtime\Pipelines\SimulatorUtility.cs" />
-    <Compile Include="C:\Users\Wessel\Desktop\GithubSchool\UnityMultiplayer\multiplayer\com.unity.transport\Runtime\Pipelines\UnreliableSequencedPipelineStage.cs" />
-    <Compile Include="C:\Users\Wessel\Desktop\GithubSchool\UnityMultiplayer\multiplayer\com.unity.transport\Runtime\Utilities.cs" />
+    <Compile Include="C:\Users\mastw\Desktop\GithubSchool\UnityMultiplayer\multiplayer\com.unity.transport\Runtime\Bindings\network.bindings.cs" />
+    <Compile Include="C:\Users\mastw\Desktop\GithubSchool\UnityMultiplayer\multiplayer\com.unity.transport\Runtime\DataStream.cs" />
+    <Compile Include="C:\Users\mastw\Desktop\GithubSchool\UnityMultiplayer\multiplayer\com.unity.transport\Runtime\INetworkDriver.cs" />
+    <Compile Include="C:\Users\mastw\Desktop\GithubSchool\UnityMultiplayer\multiplayer\com.unity.transport\Runtime\IPCManager.cs" />
+    <Compile Include="C:\Users\mastw\Desktop\GithubSchool\UnityMultiplayer\multiplayer\com.unity.transport\Runtime\NetworkCompressionModel.cs" />
+    <Compile Include="C:\Users\mastw\Desktop\GithubSchool\UnityMultiplayer\multiplayer\com.unity.transport\Runtime\NetworkConnection.cs" />
+    <Compile Include="C:\Users\mastw\Desktop\GithubSchool\UnityMultiplayer\multiplayer\com.unity.transport\Runtime\NetworkDriver.cs" />
+    <Compile Include="C:\Users\mastw\Desktop\GithubSchool\UnityMultiplayer\multiplayer\com.unity.transport\Runtime\NetworkEndPoint.cs" />
+    <Compile Include="C:\Users\mastw\Desktop\GithubSchool\UnityMultiplayer\multiplayer\com.unity.transport\Runtime\NetworkEventQueue.cs" />
+    <Compile Include="C:\Users\mastw\Desktop\GithubSchool\UnityMultiplayer\multiplayer\com.unity.transport\Runtime\NetworkInterface.cs" />
+    <Compile Include="C:\Users\mastw\Desktop\GithubSchool\UnityMultiplayer\multiplayer\com.unity.transport\Runtime\NetworkLogger.cs" />
+    <Compile Include="C:\Users\mastw\Desktop\GithubSchool\UnityMultiplayer\multiplayer\com.unity.transport\Runtime\NetworkParams.cs" />
+    <Compile Include="C:\Users\mastw\Desktop\GithubSchool\UnityMultiplayer\multiplayer\com.unity.transport\Runtime\NetworkPipeline.cs" />
+    <Compile Include="C:\Users\mastw\Desktop\GithubSchool\UnityMultiplayer\multiplayer\com.unity.transport\Runtime\NetworkProtocols.cs" />
+    <Compile Include="C:\Users\mastw\Desktop\GithubSchool\UnityMultiplayer\multiplayer\com.unity.transport\Runtime\Pipelines\DefaultPipelineStageCollection.cs" />
+    <Compile Include="C:\Users\mastw\Desktop\GithubSchool\UnityMultiplayer\multiplayer\com.unity.transport\Runtime\Pipelines\ReliableSequencedPipelineStage.cs" />
+    <Compile Include="C:\Users\mastw\Desktop\GithubSchool\UnityMultiplayer\multiplayer\com.unity.transport\Runtime\Pipelines\ReliableUtility.cs" />
+    <Compile Include="C:\Users\mastw\Desktop\GithubSchool\UnityMultiplayer\multiplayer\com.unity.transport\Runtime\Pipelines\SimulatorPipelineStage.cs" />
+    <Compile Include="C:\Users\mastw\Desktop\GithubSchool\UnityMultiplayer\multiplayer\com.unity.transport\Runtime\Pipelines\SimulatorUtility.cs" />
+    <Compile Include="C:\Users\mastw\Desktop\GithubSchool\UnityMultiplayer\multiplayer\com.unity.transport\Runtime\Pipelines\UnreliableSequencedPipelineStage.cs" />
+    <Compile Include="C:\Users\mastw\Desktop\GithubSchool\UnityMultiplayer\multiplayer\com.unity.transport\Runtime\Utilities.cs" />
     <Reference Include="Unity.Burst">
-      <HintPath>C:/Users/Wessel/Desktop/GithubSchool/Kernmodule4/Library/ScriptAssemblies/Unity.Burst.dll</HintPath>
+      <HintPath>C:/Users/mastw/Desktop/GithubSchool/Kernmodule4/Library/ScriptAssemblies/Unity.Burst.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Collections">
-      <HintPath>C:/Users/Wessel/Desktop/GithubSchool/Kernmodule4/Library/ScriptAssemblies/Unity.Collections.dll</HintPath>
+      <HintPath>C:/Users/mastw/Desktop/GithubSchool/Kernmodule4/Library/ScriptAssemblies/Unity.Collections.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Mathematics">
-      <HintPath>C:/Users/Wessel/Desktop/GithubSchool/Kernmodule4/Library/ScriptAssemblies/Unity.Mathematics.dll</HintPath>
+      <HintPath>C:/Users/mastw/Desktop/GithubSchool/Kernmodule4/Library/ScriptAssemblies/Unity.Mathematics.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>C:/Program Files/Unity/Hub/Editor/2019.1.0f2/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
@@ -291,26 +293,26 @@
     <Reference Include="UnityEditor.UWP.Extensions">
       <HintPath>C:/Program Files/Unity/Hub/Editor/2019.1.0f2/Editor/Data/PlaybackEngines/MetroSupport/UnityEditor.UWP.Extensions.dll</HintPath>
     </Reference>
-    <Reference Include="SyntaxTree.VisualStudio.Unity.Bridge">
-      <HintPath>C:/Program Files (x86)/Microsoft Visual Studio Tools for Unity/15.0/Editor/SyntaxTree.VisualStudio.Unity.Bridge.dll</HintPath>
-    </Reference>
     <Reference Include="UnityEditor.Advertisements">
-      <HintPath>C:/Users/Wessel/Desktop/GithubSchool/Kernmodule4/Library/PackageCache/com.unity.ads@2.0.8/Editor/UnityEditor.Advertisements.dll</HintPath>
+      <HintPath>C:/Users/mastw/Desktop/GithubSchool/Kernmodule4/Library/PackageCache/com.unity.ads@2.0.8/Editor/UnityEditor.Advertisements.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.Editor">
-      <HintPath>C:/Users/Wessel/Desktop/GithubSchool/Kernmodule4/Library/PackageCache/com.unity.analytics@3.3.2/Unity.Analytics.Editor.dll</HintPath>
+      <HintPath>C:/Users/mastw/Desktop/GithubSchool/Kernmodule4/Library/PackageCache/com.unity.analytics@3.3.2/Unity.Analytics.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.StandardEvents">
-      <HintPath>C:/Users/Wessel/Desktop/GithubSchool/Kernmodule4/Library/PackageCache/com.unity.analytics@3.3.2/Unity.Analytics.StandardEvents.dll</HintPath>
+      <HintPath>C:/Users/mastw/Desktop/GithubSchool/Kernmodule4/Library/PackageCache/com.unity.analytics@3.3.2/Unity.Analytics.StandardEvents.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.Tracker">
-      <HintPath>C:/Users/Wessel/Desktop/GithubSchool/Kernmodule4/Library/PackageCache/com.unity.analytics@3.3.2/Unity.Analytics.Tracker.dll</HintPath>
+      <HintPath>C:/Users/mastw/Desktop/GithubSchool/Kernmodule4/Library/PackageCache/com.unity.analytics@3.3.2/Unity.Analytics.Tracker.dll</HintPath>
     </Reference>
     <Reference Include="System.Runtime.CompilerServices.Unsafe">
-      <HintPath>C:/Users/Wessel/Desktop/GithubSchool/Kernmodule4/Library/PackageCache/com.unity.collections@0.0.9-preview.13/System.Runtime.CompilerServices.Unsafe.dll</HintPath>
+      <HintPath>C:/Users/mastw/Desktop/GithubSchool/Kernmodule4/Library/PackageCache/com.unity.collections@0.0.9-preview.13/System.Runtime.CompilerServices.Unsafe.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.Purchasing">
-      <HintPath>C:/Users/Wessel/Desktop/GithubSchool/Kernmodule4/Library/PackageCache/com.unity.purchasing@2.0.6/Editor/UnityEditor.Purchasing.dll</HintPath>
+      <HintPath>C:/Users/mastw/Desktop/GithubSchool/Kernmodule4/Library/PackageCache/com.unity.purchasing@2.0.6/Editor/UnityEditor.Purchasing.dll</HintPath>
+    </Reference>
+    <Reference Include="SyntaxTree.VisualStudio.Unity.Bridge">
+      <HintPath>C:/Program Files (x86)/Microsoft Visual Studio Tools for Unity/15.0/Editor/SyntaxTree.VisualStudio.Unity.Bridge.dll</HintPath>
     </Reference>
     <Reference Include="netstandard">
       <HintPath>C:/Program Files/Unity/Hub/Editor/2019.1.0f2/Editor/Data/NetStandard/ref/2.0.0/netstandard.dll</HintPath>

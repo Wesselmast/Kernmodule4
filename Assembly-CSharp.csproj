@@ -85,40 +85,40 @@
     <None Include="Assets\TextMesh Pro\Resources\Shaders\TMP_Sprite.shader" />
     <None Include="Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Surface.shader" />
     <Reference Include="Unity.Timeline.Editor">
-      <HintPath>C:/Users/Wessel/Desktop/GithubSchool/Kernmodule4/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
+      <HintPath>C:/Users/mastw/Desktop/GithubSchool/Kernmodule4/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Collections">
-      <HintPath>C:/Users/Wessel/Desktop/GithubSchool/Kernmodule4/Library/ScriptAssemblies/Unity.Collections.dll</HintPath>
+      <HintPath>C:/Users/mastw/Desktop/GithubSchool/Kernmodule4/Library/ScriptAssemblies/Unity.Collections.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
-      <HintPath>C:/Users/Wessel/Desktop/GithubSchool/Kernmodule4/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+      <HintPath>C:/Users/mastw/Desktop/GithubSchool/Kernmodule4/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Burst">
-      <HintPath>C:/Users/Wessel/Desktop/GithubSchool/Kernmodule4/Library/ScriptAssemblies/Unity.Burst.dll</HintPath>
+      <HintPath>C:/Users/mastw/Desktop/GithubSchool/Kernmodule4/Library/ScriptAssemblies/Unity.Burst.dll</HintPath>
     </Reference>
     <Reference Include="Unity.PackageManagerUI.Editor">
-      <HintPath>C:/Users/Wessel/Desktop/GithubSchool/Kernmodule4/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
+      <HintPath>C:/Users/mastw/Desktop/GithubSchool/Kernmodule4/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Timeline">
-      <HintPath>C:/Users/Wessel/Desktop/GithubSchool/Kernmodule4/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
+      <HintPath>C:/Users/mastw/Desktop/GithubSchool/Kernmodule4/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
     </Reference>
     <Reference Include="Unity.CollabProxy.Editor">
-      <HintPath>C:/Users/Wessel/Desktop/GithubSchool/Kernmodule4/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
+      <HintPath>C:/Users/mastw/Desktop/GithubSchool/Kernmodule4/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Mathematics">
-      <HintPath>C:/Users/Wessel/Desktop/GithubSchool/Kernmodule4/Library/ScriptAssemblies/Unity.Mathematics.dll</HintPath>
+      <HintPath>C:/Users/mastw/Desktop/GithubSchool/Kernmodule4/Library/ScriptAssemblies/Unity.Mathematics.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Burst.Editor">
-      <HintPath>C:/Users/Wessel/Desktop/GithubSchool/Kernmodule4/Library/ScriptAssemblies/Unity.Burst.Editor.dll</HintPath>
+      <HintPath>C:/Users/mastw/Desktop/GithubSchool/Kernmodule4/Library/ScriptAssemblies/Unity.Burst.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Mathematics.Editor">
-      <HintPath>C:/Users/Wessel/Desktop/GithubSchool/Kernmodule4/Library/ScriptAssemblies/Unity.Mathematics.Editor.dll</HintPath>
+      <HintPath>C:/Users/mastw/Desktop/GithubSchool/Kernmodule4/Library/ScriptAssemblies/Unity.Mathematics.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
-      <HintPath>C:/Users/Wessel/Desktop/GithubSchool/Kernmodule4/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+      <HintPath>C:/Users/mastw/Desktop/GithubSchool/Kernmodule4/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.DataPrivacy">
-      <HintPath>C:/Users/Wessel/Desktop/GithubSchool/Kernmodule4/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll</HintPath>
+      <HintPath>C:/Users/mastw/Desktop/GithubSchool/Kernmodule4/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>C:/Program Files/Unity/Hub/Editor/2019.1.0f2/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
@@ -304,16 +304,16 @@
       <HintPath>C:/Program Files/Unity/Hub/Editor/2019.1.0f2/Editor/Data/UnityExtensions/Unity/TestRunner/net35/unity-custom/nunit.framework.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.Editor">
-      <HintPath>C:/Users/Wessel/Desktop/GithubSchool/Kernmodule4/Library/PackageCache/com.unity.analytics@3.3.2/Unity.Analytics.Editor.dll</HintPath>
+      <HintPath>C:/Users/mastw/Desktop/GithubSchool/Kernmodule4/Library/PackageCache/com.unity.analytics@3.3.2/Unity.Analytics.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.StandardEvents">
-      <HintPath>C:/Users/Wessel/Desktop/GithubSchool/Kernmodule4/Library/PackageCache/com.unity.analytics@3.3.2/Unity.Analytics.StandardEvents.dll</HintPath>
+      <HintPath>C:/Users/mastw/Desktop/GithubSchool/Kernmodule4/Library/PackageCache/com.unity.analytics@3.3.2/Unity.Analytics.StandardEvents.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.Tracker">
-      <HintPath>C:/Users/Wessel/Desktop/GithubSchool/Kernmodule4/Library/PackageCache/com.unity.analytics@3.3.2/Unity.Analytics.Tracker.dll</HintPath>
+      <HintPath>C:/Users/mastw/Desktop/GithubSchool/Kernmodule4/Library/PackageCache/com.unity.analytics@3.3.2/Unity.Analytics.Tracker.dll</HintPath>
     </Reference>
     <Reference Include="System.Runtime.CompilerServices.Unsafe">
-      <HintPath>C:/Users/Wessel/Desktop/GithubSchool/Kernmodule4/Library/PackageCache/com.unity.collections@0.0.9-preview.13/System.Runtime.CompilerServices.Unsafe.dll</HintPath>
+      <HintPath>C:/Users/mastw/Desktop/GithubSchool/Kernmodule4/Library/PackageCache/com.unity.collections@0.0.9-preview.13/System.Runtime.CompilerServices.Unsafe.dll</HintPath>
     </Reference>
     <Reference Include="netstandard">
       <HintPath>C:/Program Files/Unity/Hub/Editor/2019.1.0f2/Editor/Data/NetStandard/ref/2.0.0/netstandard.dll</HintPath>
